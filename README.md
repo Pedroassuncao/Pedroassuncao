@@ -29,8 +29,8 @@ height="180" width="180">
 
 
 
-![social](https://img.shields.io/badge/pedro21assuncao-social?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)
-![social](https://img.shields.io/badge/pedro__assuncao-social?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)
+![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)
+![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)
 
 
 
