@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Pedroassuncao/Pedroassuncao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +26,7 @@ height="180" width="180">  -->
 - 🏡 Porto
 - 🇵🇹 Portugal
 
-
+🌱 --WIP--
 
 ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)
 ![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)
@@ -53,7 +51,7 @@ height="180" width="180">  -->
     * Javascript
     * Assembly
 
-____
+
     Contact IDE's
 
     * Visual Studio Code 
@@ -61,7 +59,7 @@ ____
     * IntelliJ Idea
     * SQL Server
     * Unity
-------   
+ 
    **My paper for cybersecurity conference**
 * Http://privacyandsecurityconference.pt/proceedings/2019/DPSC2019-paper14.pdf
 
