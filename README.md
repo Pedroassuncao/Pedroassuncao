@@ -30,6 +30,7 @@ height="180" width="180">  -->
 
 ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)
 ![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pedroassuncao)
 
 
 
@@ -155,3 +156,22 @@ Philosophy
 * Focus on result
 * Optimism
 * Cooperation
+
+
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin-fill.svg"></a>
+    <a href="mailto:dpdhruvprajapati@gmail.com" alt="Contact me"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/mail-fill.svg"></a>
+    <a href="https://imdhruv99.github.io" alt="My site"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/external-link-line.svg"></a>
+  </p>
+
+  <p align="center">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=pedroassuncao">
+  </p>
+
+</p>
+
+<img src="https://github.com/pedroassuncao/pedroassuncao/resources/bottom.svg" alt="bottom">
