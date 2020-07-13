@@ -1,36 +1,27 @@
-<!--
-**Pedroassuncao/Pedroassuncao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 Pedro Assunção
 ============
 <!-- maybe dont need that image
  <img src="circle-cropped.png"
 height="180" width="180">  -->
 -------------------     ----------------------------
+
+
+🌱
+  <summary>Information about me 👍</summary>
+  <br>
+  <!-- <p><i>       </i><p> -->
+
 - 📬 pedroj_9@hotmail.com
 - 🎓 Informatic engineering/Computer science
 - 📕 Universidade Lusófona do Porto 
 - 🏡 Porto
 - 🇵🇹 Portugal
 
-🌱 --WIP--
-
-![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)
-![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pedroassuncao)
+  <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=jayehernandez&show_icons=true) -->
+  ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)
+ ![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)
+ <!-- ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=linkedin&link=https://www.linkedin.com/in/pedro21assuncao//right) -->
+</details>
 
 
 
@@ -157,15 +148,14 @@ Philosophy
 * Optimism
 * Cooperation
 
-
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin-fill.svg"></a>
-    <a href="mailto:dpdhruvprajapati@gmail.com" alt="Contact me"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/mail-fill.svg"></a>
-    <a href="https://imdhruv99.github.io" alt="My site"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/external-link-line.svg"></a>
+    <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/linkedin-fill.svg"></a>
+    <a href="mailto:pedroj_9@hotmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/resources/mail-fill.svg"></a>
+
   </p>
 
   <p align="center">
@@ -174,4 +164,4 @@ Philosophy
 
 </p>
 
-<img src="https://github.com/pedroassuncao/pedroassuncao/resources/bottom.svg" alt="bottom">
+<img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/resources/bottom.svg" alt="bottom">
