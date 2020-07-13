@@ -6,7 +6,8 @@ height="180" width="180">  -->
 -------------------     ----------------------------
 
 
-🌱
+🌱 WIP
+  <details>
   <summary>Information about me 👍</summary>
   <br>
   <!-- <p><i>       </i><p> -->
@@ -153,8 +154,8 @@ Philosophy
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/linkedin-fill.svg"></a>
-    <a href="mailto:pedroj_9@hotmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/resources/mail-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="./resources/linkedin-fill.svg"></a>
+    <a href="mailto:pedroj_9@hotmail.com" alt="Contact me"><img src="./resources/mail-fill.svg"></a>
 
   </p>
 
@@ -164,4 +165,4 @@ Philosophy
 
 </p>
 
-<img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/resources/bottom.svg" alt="bottom">
+<img src="./resources/bottom.svg" alt="bottom">
