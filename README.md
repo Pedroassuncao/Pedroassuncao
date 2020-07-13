@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 Pedro Assunção
 ============
-<img src="circle-cropped.png"
-height="180" width="180"> 
+<!-- maybe dont need that image
+ <img src="circle-cropped.png"
+height="180" width="180">  -->
 -------------------     ----------------------------
 - 📬 pedroj_9@hotmail.com
 - 🎓 Informatic engineering/Computer science
@@ -71,14 +72,13 @@ ____
 Incomplete 
 
 ## Technical Experience
-----------
+
 Academic Project
 **eShelf**
 
 This project aims to develop a digital shelf that identifies products placed on the shelf, using NFC technology, and will present the information about the products on the display. this information is withdrawal from the database. This shelf aims to facilitate the price update and product labeling of a store as well as marketing to highlight the product in the store.
 
 **Tecnologys used**
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 ![API](https://img.shields.io/badge/flask-API_Restfull-green?logo=flask)
 ![Arduino](https://img.shields.io/badge/Arduino-ESP8266-silver?logo=arduino)
