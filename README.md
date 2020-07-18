@@ -154,15 +154,14 @@ Philosophy
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="./resources/linkedin-fill.svg"></a>
-    <a href="mailto:pedroj_9@hotmail.com" alt="Contact me"><img src="./resources/mail-fill.svg"></a>
-
-  </p>
-
-  <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=pedroassuncao">
+    <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="./resources/010-linkedin.svg" width="25"></a>  
+  <a href="https://www.instagram.com/pedro_assuncao/" width="120" alt="instagram"> <img src="./resources/011-instagram.svg" width="25"> </a>
+  <a href="https://www.facebook.com/pedro21assuncao/" width="120" alt="facebook"> <img src="./resources/008-facebook.svg" width="25"> </a>
+  <a href="mailto:pedroj_9@hotmail.com" alt="Contact me"><img src="./resources/mail-fill.svg"></a>
   </p>
 
 </p>
+
+
 
 <img src="./resources/bottom.svg" alt="bottom">
