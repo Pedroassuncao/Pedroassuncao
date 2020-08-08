@@ -1,5 +1,8 @@
-Pedro Assunção
-============
+<h1 align="center">Hello friend 👋, I'm Pedro Assunção</h1>
+<h3 align="center">A cybersecurity enthusiast and obviously a fan of
+ <p>  <img src="./resources/mr_robot.png" alt="Mr.Robot" width="200"></p> </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pedroassuncao-github-username&style=flat-square&label=Welcome&style=plastic&color=33FF99" alt="Pedroassuncao" /> </p>
+
 <!-- maybe dont need that image
  <img src="circle-cropped.png"
 height="180" width="180">  -->
@@ -7,6 +10,7 @@ height="180" width="180">  -->
 
 
 🌱 WIP
+
   <details>
   <summary>Information about me 👍</summary>
   <br>
@@ -18,7 +22,7 @@ height="180" width="180">  -->
 - 🏡 Porto
 - 🇵🇹 Portugal
 
-  <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=jayehernandez&show_icons=true) -->
+
   ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)
  ![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)
  <!-- ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=linkedin&link=https://www.linkedin.com/in/pedro21assuncao//right) -->
@@ -79,7 +83,7 @@ This project aims to develop a digital shelf that identifies products placed on 
  
 
 
-> link do projeto [eshelf](https://github.com/Pedroassuncao/eShelf).
+> link project [eshelf](https://github.com/Pedroassuncao/eShelf).
 
 
 As a self-taught
@@ -100,34 +104,6 @@ So, I am aware of some tools for information gathering, wireless attacks, forens
     * reaver
     and other opensource tools from github.
 
-<!-- Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname -->
-
 Languages
 ----------------------------------------
 
@@ -147,17 +123,15 @@ Philosophy
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+  <i>The world is a dangerous place, Elliott, not because of those who do evil, but because of those who look on and do nothing.</i>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="./resources/010-linkedin.svg" width="25"></a>  
   <a href="https://www.instagram.com/pedro_assuncao/" width="120" alt="instagram"> <img src="./resources/011-instagram.svg" width="25"> </a>
   <a href="https://www.facebook.com/pedro21assuncao/" width="120" alt="facebook"> <img src="./resources/008-facebook.svg" width="25"> </a>
-  <a href="mailto:pedroj_9@hotmail.com" alt="Contact me"><img src="./resources/mail-fill.svg"></a>
+  <a href="mailto:pedroj_9@hotmail.com" alt="Contact me"><img src="./resources/enviar.png" width="30"></a>
   </p>
 
 </p>
 
 
-
-<img src="./resources/bottom.svg" alt="bottom">
