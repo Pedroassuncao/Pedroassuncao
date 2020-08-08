@@ -2,7 +2,9 @@
 <h3 align="center">A cybersecurity enthusiast and obviously a fan of
  <!-- <p>  <img src="./resources/mr_robot.png" alt="Mr.Robot" width="200"></p>--> </h3>
 
- ![mr.robot](./resources/mr_robot.png)
+![Mr.Robot](https://www.pngkey.com/png/full/37-373340_pt-joedaddy-mr-robot-logo-png.png)
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pedroassuncao-github-username&style=flat-square&label=Welcome&style=plastic&color=33FF99" alt="Pedroassuncao" /> </p>
 
 <!-- maybe dont need that image
