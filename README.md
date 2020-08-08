@@ -32,7 +32,7 @@ height="180" width="180">  -->
 
 -------------------     ----------------------------
 
- ## Education
+ ## 📚 Education
 ---------
 
 2017-2020 (expected)
@@ -62,7 +62,7 @@ height="180" width="180">  -->
 
 -------------------------
 
-## Technical Experience
+## 👨‍💻 Technical Experience
 
 Academic Project
 **eShelf**
@@ -86,7 +86,7 @@ This project aims to develop a digital shelf that identifies products placed on 
 > link project [eshelf](https://github.com/Pedroassuncao/eShelf).
 
 
-As a self-taught
+🚀 As a self-taught
 --------------------
 
 Auditing tools (kali linux)
@@ -106,16 +106,16 @@ So, I am aware of some tools for information gathering, wireless attacks, forens
     * reaver
     and other opensource tools from github.
 
-Languages
+🤝 Languages
 ----------------------------------------
 
 * Human Languages:
 
-     * Portuguese (native speaker)
-     * English
+     * 🇵🇹 Portuguese (native speaker)
+     * 🇬🇧 English
      
 
-Philosophy
+🕶 Philosophy
 -------------------------------------
 * Meritocracy
 * Dedicated
