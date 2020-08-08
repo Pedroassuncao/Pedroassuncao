@@ -57,10 +57,6 @@ height="180" width="180">  -->
 * Http://privacyandsecurityconference.pt/proceedings/2019/DPSC2019-paper14.pdf
 
 -------------------------
-**2012-2016**
-:   **Gestão e engenharia industrial**; Universidade Lusófona do Porto
-
-Incomplete 
 
 ## Technical Experience
 
