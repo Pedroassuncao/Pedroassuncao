@@ -1,9 +1,7 @@
 <h1 align="center">Hello friend 👋, I'm Pedro Assunção</h1>
 <h3 align="center">A cybersecurity enthusiast and obviously a fan of
- <!-- <p>  <img src="./resources/mr_robot.png" alt="Mr.Robot" width="200"></p>--> </h3>
 
-![Mr.Robot](https://www.pngkey.com/png/full/37-373340_pt-joedaddy-mr-robot-logo-png.png)
-
+![Mr.Robot](https://www.pngkey.com/png/full/37-373340_pt-joedaddy-mr-robot-logo-png.png) </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pedroassuncao-github-username&style=flat-square&label=Welcome&style=plastic&color=33FF99" alt="Pedroassuncao" /> </p>
 
@@ -12,8 +10,6 @@
 height="180" width="180">  -->
 -------------------     ----------------------------
 
-
-🌱 WIP
 
   <details>
   <summary>Information about me 👍</summary>
@@ -93,9 +89,11 @@ This project aims to develop a digital shelf that identifies products placed on 
 As a self-taught
 --------------------
 
-Auditing tools (kali linux) 
+Auditing tools (kali linux)
+ 
+[![Kali](https://emoji.gg/assets/emoji/3225_kali.png)](kali.org)
 
-:    On my spare time i like to explore the world of cybersecurity and  hacking. I already audited some networks in a controlled environment and got authorization for doing that.
+On my spare time i like to explore the world of cybersecurity and  hacking. I already audited some networks in a controlled environment and got authorization for doing that.
 So, I am aware of some tools for information gathering, wireless attacks, forensic analysis etc.
 
 
