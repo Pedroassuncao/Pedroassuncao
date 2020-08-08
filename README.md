@@ -1,19 +1,19 @@
 <h1 align="center">Hello friend 👋, I'm Pedro Assunção</h1>
+<!-- maybe dont need that image
+ <img src="circle-cropped.png"
+height="180" width="180">  -->
 <h3 align="center">A cybersecurity enthusiast and obviously a fan of
 
 ![Mr.Robot](https://www.pngkey.com/png/full/37-373340_pt-joedaddy-mr-robot-logo-png.png) </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pedroassuncao-github-username&style=flat-square&label=Welcome&style=plastic&color=33FF99" alt="Pedroassuncao" /> </p>
 
-<!-- maybe dont need that image
- <img src="circle-cropped.png"
-height="180" width="180">  -->
+
 -------------------     ----------------------------
 
 
-  <details>
-  <summary>Information about me 👍</summary>
-  <br>
+ 
+  Information about me 👻  <br>
   <!-- <p><i>       </i><p> -->
 
 - 📬 pedroj_9@hotmail.com
@@ -26,8 +26,6 @@ height="180" width="180">  -->
   ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)
  ![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)
  <!-- ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=linkedin&link=https://www.linkedin.com/in/pedro21assuncao//right) -->
-</details>
-
 
 
 -------------------     ----------------------------
@@ -91,7 +89,7 @@ This project aims to develop a digital shelf that identifies products placed on 
 
 Auditing tools (kali linux)
  
-[![Kali](https://emoji.gg/assets/emoji/3225_kali.png)](kali.org)
+[![Kali](https://emoji.gg/assets/emoji/3225_kali.png)](https://www.kali.org)
 
 On my spare time i like to explore the world of cybersecurity and  hacking. I already audited some networks in a controlled environment and got authorization for doing that.
 So, I am aware of some tools for information gathering, wireless attacks, forensic analysis etc.
