@@ -24,8 +24,8 @@ height="180" width="180">  -->
 - 🇵🇹 Portugal
 
 
-  [![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)](https://www.facebook.com/pedro21assuncao)
- [![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)](https://www.instagram.com/pedro_assuncao)
+  <!-- [![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)](https://www.facebook.com/pedro21assuncao)
+ <!-- [![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)](https://www.instagram.com/pedro_assuncao) -->
  <!-- ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=linkedin&link=https://www.linkedin.com/in/pedro21assuncao//right) -->
 
 
@@ -47,7 +47,8 @@ height="180" width="180">  -->
 | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-visual-studio-code-2019-50.png" alt="VSCode logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-pycharm-50.png" alt="python logo" width="24">  | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-intellij-idea-50.png" alt="idea logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-microsoft-sql-server-48.png" alt="microsoft SQL server" width="24"> |
 |---|---|---|---|---|---|
 
-   **My paper for cybersecurity conference**
+ ##  **My paper for cybersecurity conference**
+
 * Http://privacyandsecurityconference.pt/proceedings/2019/DPSC2019-paper14.pdf
 
 -------------------------
@@ -73,7 +74,7 @@ This project aims to develop a digital shelf that identifies products placed on 
  
 
 
-><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/github.png" width="50" alt="github Logo"> link project [eshelf](https://github.com/Pedroassuncao/eShelf).
+> link project [eshelf](https://github.com/Pedroassuncao/eShelf).
 
 
 🚀 As a self-taught
