@@ -45,7 +45,7 @@ height="180" width="180">  -->
   ##  Contact IDE's
  
 | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-visual-studio-code-2019-50.png" alt="VSCode logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-pycharm-50.png" alt="python logo" width="24">  | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-intellij-idea-50.png" alt="idea logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-microsoft-sql-server-48.png" alt="microsoft SQL server" width="24"> |
-|---|---|---|---|---|---|
+|---|---|---|---|
 
  ##  **My paper for cybersecurity conference**
 
@@ -124,10 +124,10 @@ So, I am aware of some tools for information gathering, wireless attacks, forens
 
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="./resources/010-linkedin.svg" width="25"></a>  
-  <a href="https://www.instagram.com/pedro_assuncao/" width="120" alt="instagram"> <img src="./resources/011-instagram.svg" width="25"> </a>
-  <a href="https://www.facebook.com/pedro21assuncao/" width="120" alt="facebook"> <img src="./resources/008-facebook.svg" width="25"> </a>
-  <a href="mailto:pedroj_9@hotmail.com" alt="Contact me"><img src="./resources/enviar.png" width="30"></a>
+    <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/010-linkedin.svg" width="25"></a>  
+  <a href="https://www.instagram.com/pedro_assuncao/" width="120" alt="instagram"> <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/011-instagram.svg" width="25"> </a>
+  <a href="https://www.facebook.com/pedro21assuncao/" width="120" alt="facebook"> <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/008-facebook.svg" width="25"> </a>
+  <a href="mailto:pedroj_9@hotmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/enviar.png" width="25"></a>
   </p>
 
 </p>
