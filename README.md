@@ -1,10 +1,11 @@
-<h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/wave.gif" alt=":wave:" width="30px">, I'm Pedro Assunção</h1>
+<h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/wave.gif" alt=":wave:" width="30px">, I'm Pedro Assunção </h1>
 <!-- maybe dont need that image
  <img src="circle-cropped.png"
 height="180" width="180">  -->
 <h3 align="center">A cybersecurity enthusiast and obviously a fan of
 
-![Mr.Robot](https://www.pngkey.com/png/full/37-373340_pt-joedaddy-mr-robot-logo-png.png) </h3>
+<img src="https://www.pngkey.com/png/full/37-373340_pt-joedaddy-mr-robot-logo-png.png" width="300" alt="Robot Logo"> </h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pedroassuncao-github-username&style=flat-square&label=Welcome&style=plastic&color=33FF99" alt="Pedroassuncao" /> </p>
 
@@ -23,8 +24,8 @@ height="180" width="180">  -->
 - 🇵🇹 Portugal
 
 
-  ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)
- ![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)
+  [![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)](https://www.facebook.com/pedro21assuncao)
+ [![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)](https://www.instagram.com/pedro_assuncao)
  <!-- ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=linkedin&link=https://www.linkedin.com/in/pedro21assuncao//right) -->
 
 
@@ -46,7 +47,7 @@ height="180" width="180">  -->
     * Javascript
     * Assembly
 
-| [<img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/c.png" alt="C logo" width="24">]()  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="28">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/)  |
+| [<img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-programação-c-50.png" alt="C logo" width="24">]()  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="28">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/)  |
 |---|---|---|---|---|---|
 
     Contact IDE's
