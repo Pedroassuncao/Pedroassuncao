@@ -1,4 +1,4 @@
-<h1 align="center">Hello friend 👋, I'm Pedro Assunção</h1>
+<h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/resources/wave.gif" alt="waving hand" width="30px">, I'm Pedro Assunção</h1>
 <!-- maybe dont need that image
  <img src="circle-cropped.png"
 height="180" width="180">  -->
@@ -46,6 +46,8 @@ height="180" width="180">  -->
     * Javascript
     * Assembly
 
+| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">](https://vlang.io/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="28">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/)  |
+|---|---|---|---|---|---|
 
     Contact IDE's
 
@@ -124,6 +126,11 @@ So, I am aware of some tools for information gathering, wireless attacks, forens
 <hr>
 <p align="center">
   <i>The world is a dangerous place, Elliott, not because of those who do evil, but because of those who look on and do nothing.</i>
+
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pedroassuncao&show_icons=true&theme=vue-dark" alt="Pedro Assuncao stats" />
+  
+
+
 
   <p align="center">
     <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="./resources/010-linkedin.svg" width="25"></a>  
