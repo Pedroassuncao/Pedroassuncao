@@ -37,27 +37,16 @@ height="180" width="180">  -->
 2017-2020 (expected)
 :   **Graduation, Engenharia informática**; Universidade Lusófona do Porto
 
-    Contact programming langagues:
-    * C
-    * Python
-    * HTML
-    * Php
-    * SQL 
-    * Java
-    * Javascript
-    * Assembly
+  ##  Contact programming langagues:
 
-| [<img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-programação-c-50.png" alt="C logo" width="24">]()  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="28">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/)  |
+| <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-programação-c-50.png" alt="C logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-python-50.png" alt="python logo" width="24">  | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-html-5-50.png" alt="html logo" width="24">  |  <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-php-50.png" alt="php logo" width="24"> |  <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-mysql-50.png" alt="mysql logo" width="28"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-java-coffee-cup-50.png" alt="java logo" width="28">  |
 |---|---|---|---|---|---|
 
-    Contact IDE's
-
-    * Visual Studio Code 
-    * Pycharm
-    * IntelliJ Idea
-    * SQL Server
-    * Unity
+  ##  Contact IDE's
  
+| <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-visual-studio-code-2019-50.png" alt="VSCode logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-pycharm-50.png" alt="python logo" width="24">  | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-intellij-idea-50.png" alt="idea logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-microsoft-sql-server-48.png" alt="microsoft SQL server" width="24"> |
+|---|---|---|---|---|---|
+
    **My paper for cybersecurity conference**
 * Http://privacyandsecurityconference.pt/proceedings/2019/DPSC2019-paper14.pdf
 
@@ -84,7 +73,7 @@ This project aims to develop a digital shelf that identifies products placed on 
  
 
 
-> link project [eshelf](https://github.com/Pedroassuncao/eShelf).
+><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/github.png" width="50" alt="github Logo"> link project [eshelf](https://github.com/Pedroassuncao/eShelf).
 
 
 🚀 As a self-taught
