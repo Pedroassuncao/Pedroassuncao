@@ -39,12 +39,12 @@ height="180" width="180">  -->
 
   ##  Contact programming langagues:
 
-| <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-programação-c-50.png" alt="C logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-python-50.png" alt="python logo" width="24">  | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-html-5-50.png" alt="html logo" width="24">  |  <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-php-50.png" alt="php logo" width="24"> |  <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-mysql-50.png" alt="mysql logo" width="28"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-java-coffee-cup-50.png" alt="java logo" width="28">  |
-|---|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-programação-c-50.png" alt="C logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-python-50.png" alt="python logo" width="24">  | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-html-5-50.png" alt="html logo" width="24">  |  <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-php-50.png" alt="php logo" width="24"> |  <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-mysql-50.png" alt="mysql logo" width="28"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-java-coffee-cup-50.png" alt="java logo" width="28">  | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/flask-logo.png" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-docker-50.png" width="24">
+|---|---|---|---|---|---|---|---|
 
   ##  Contact IDE's
  
-| <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-visual-studio-code-2019-50.png" alt="VSCode logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-pycharm-50.png" alt="python logo" width="24">  | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-intellij-idea-50.png" alt="idea logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-microsoft-sql-server-48.png" alt="microsoft SQL server" width="24"> |
+| <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-visual-studio-code-2019-50.png" alt="VSCode logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-pycharm-50.png" alt="python logo" width="24">  | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-intellij-idea-50.png" alt="idea logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-microsoft-sql-server-48.png" alt="microsoft SQL server" width="24"> | 
 |---|---|---|---|
 
  ##  **My paper for cybersecurity conference**
@@ -80,9 +80,15 @@ This project aims to develop a digital shelf that identifies products placed on 
 🚀 As a self-taught
 --------------------
 
-Auditing tools (kali linux)
- 
-[![Kali](https://emoji.gg/assets/emoji/3225_kali.png)](https://www.kali.org)
+Always like to explore
+* Linux distros
+* Linux server projects
+* Raspberry pi projects
+* terminal
+* Bash
+* Auditing tools (kali linux)
+
+
 
 On my spare time i like to explore the world of cybersecurity and  hacking. I already audited some networks in a controlled environment and got authorization for doing that.
 So, I am aware of some tools for information gathering, wireless attacks, forensic analysis etc.
