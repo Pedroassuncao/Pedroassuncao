@@ -39,13 +39,22 @@ height="180" width="180">  -->
 
   ##  Contact programming langagues:
 
-| <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-programação-c-50.png" alt="C logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-python-50.png" alt="python logo" width="24">  | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-html-5-50.png" alt="html logo" width="24">  |  <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-php-50.png" alt="php logo" width="24"> |  <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-mysql-50.png" alt="mysql logo" width="28"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-java-coffee-cup-50.png" alt="java logo" width="28">  | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/flask-logo.png" alt="flask logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-docker-50.png" width="24">
-|---|---|---|---|---|---|---|---|
+|                                                                                                                                                                    | **Contact Languages** |           **Course**           |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------:|:---------------------------:|
+|      <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-programação-c-50.png" alt="C logo" width="24">      |         C         |  Fundamentos de programacao |
+|       <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-python-50.png" alt="python logo" width="24">       |       Python      |   Inteligência Artificial   |
+|        <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-html-5-50.png" alt="html logo" width="24">        |        HTML       | Linguagens de programação 2 |
+|        <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-php-50.png" alt="php logo" width="24">       |        php        | Linguagens de programação 2 |
+|      <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-mysql-50.png" alt="mysql logo" width="28">     |       MySQL       |        Base de Dados        |
+| <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-java-coffee-cup-50.png" alt="java logo" width="28"> |        Java       | Linguagens de programação 1 |
+|           <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/flask-logo.png" alt="flask logo" width="24">          |       Flask       |    Projeto final de curso   |
+|                <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-docker-50.png" width="24">                |       Docker      |    Projeto final de curso   |
 
   ##  Contact IDE's
  
 | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-visual-studio-code-2019-50.png" alt="VSCode logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-pycharm-50.png" alt="python logo" width="24">  | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-intellij-idea-50.png" alt="idea logo" width="24"> | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-microsoft-sql-server-48.png" alt="microsoft SQL server" width="24"> | 
 |---|---|---|---|
+
 
  ##  **My paper for cybersecurity conference**
 
