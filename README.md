@@ -34,7 +34,7 @@ height="180" width="180">  -->
  ## 📚 Education
 ---------
 
-2017-2020 (expected)
+2017-2021
 :   **Graduation, Engenharia informática**; Universidade Lusófona do Porto
 
   ##  Contact programming langagues:
