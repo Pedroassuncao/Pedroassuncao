@@ -18,7 +18,7 @@ height="180" width="180">  -->
   <!-- <p><i>       </i><p> -->
 
 - 📬 pedroj_9@hotmail.com
-- 🎓 Informatic engineering/Computer science
+- 🎓 Informatic engineering
 - 📕 Universidade Lusófona do Porto 
 - 🏡 Porto
 - 🇵🇹 Portugal
