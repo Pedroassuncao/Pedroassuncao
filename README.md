@@ -29,8 +29,9 @@ Contact with me 👻
   </p>
 
 </p>
-----------------
+
 ___
+
  <details>
  <summary> Details about my graduation <br> </summary>
 
