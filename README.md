@@ -32,7 +32,7 @@ Contact with me 👻
 ----------------
 ___
  <details>
- <summary> Detais about my education <br> </summary>
+ <summary> Details about my graduation <br> </summary>
 
 ## 📚 Education
 ---------
@@ -68,7 +68,6 @@ ___
 
 ___
 
- 
 
 ## 👨‍💻 Academic Projects
 
