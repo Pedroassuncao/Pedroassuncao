@@ -1,41 +1,44 @@
-<h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/wave.gif" alt=":wave:" width="30px">, I'm Pedro Assunção </h1>
+<h1 align="center">Hello friend, I'm Pedro Assunção <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/wave.gif" alt=":wave:" width="30px"></h1>
 <!-- maybe dont need that image
  <img src="circle-cropped.png"
 height="180" width="180">  -->
-<h3 align="center">A cybersecurity enthusiast and obviously a fan of
-
-<img src="https://www.pngkey.com/png/full/37-373340_pt-joedaddy-mr-robot-logo-png.png" width="300" alt="Robot Logo"> </h3>
-
+<h3 align="center">Computer Science and Engineering graduated looking for a job</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pedroassuncao-github-username&style=flat-square&label=Welcome&style=plastic&color=33FF99" alt="Pedroassuncao" /> </p>
 
 
 -------------------     ----------------------------
+- 🏡 Living in Porto, Portugal 🇵🇹
+- 🌱 I’m currently learning Cybersecurity
+- 👨‍💻 I’m looking to my first job on IT
+- ⚡ Fun fact: I love Sports and Hacking ( obviously a fan of <img src="https://www.pngkey.com/png/full/37-373340_pt-joedaddy-mr-robot-logo-png.png" width="60" alt="Robot Logo"> )
 
+ [<img src="https://pedroassuncao.vercel.app/api/spotify" alt="Pedro Assuncao Spotify Playing" width="350" />](https://open.spotify.com/user/1166877153)
 
  
-  Information about me 👻  <br>
-  <!-- <p><i>       </i><p> -->
+Contact with me 👻
+  <!-- [![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao/)](https://www.facebook.com/pedro21assuncao) <br>
+ [![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)](https://www.instagram.com/pedro_assuncao)<br>
+ ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=linkedin&link=https://www.linkedin.com/in/pedro21assuncao//right) -->
+ 
+  <p>
+    <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/010-linkedin.svg" width="25"></a>  
+  <a href="https://www.instagram.com/pedro_assuncao/" width="120" alt="instagram"> <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/011-instagram.svg" width="25"> </a>
+  <a href="https://www.facebook.com/pedro21assuncao/" width="120" alt="facebook"> <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/008-facebook.svg" width="25"> </a>
+  <a href="mailto:pedroj_9@hotmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/enviar.png" width="25"></a>
+  </p>
 
-- 📬 pedroj_9@hotmail.com
-- 🎓 Informatic engineering
-- 📕 Universidade Lusófona do Porto 
-- 🏡 Porto
-- 🇵🇹 Portugal
+</p>
+----------------
+___
+ <details>
+ <summary> Detais about my education <br> </summary>
 
-
-  <!-- [![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao//right)](https://www.facebook.com/pedro21assuncao)
- <!-- [![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)](https://www.instagram.com/pedro_assuncao) -->
- <!-- ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=linkedin&link=https://www.linkedin.com/in/pedro21assuncao//right) -->
-
-
--------------------     ----------------------------
-
- ## 📚 Education
+## 📚 Education
 ---------
 
 2017-2021
-:   **Graduation, Engenharia informática**; Universidade Lusófona do Porto
+:   **Graduation, Computer Science and Engineering**; Universidade Lusófona do Porto
 
   ##  Contact programming langagues:
 
@@ -47,8 +50,9 @@ height="180" width="180">  -->
 |        <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-php-50.png" alt="php logo" width="24">       |        php        | Linguagens de programação 2 |
 |      <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-mysql-50.png" alt="mysql logo" width="28">     |       MySQL       |        Base de Dados        |
 | <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-logo-java-coffee-cup-50.png" alt="java logo" width="28"> |        Java       | Linguagens de programação 1 |
-|           <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/flask-logo.png" alt="flask logo" width="24">          |       Flask       |    Projeto final de curso   |
-|                <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-docker-50.png" width="24">                |       Docker      |    Projeto final de curso   |
+|           <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/flask-logo.png" alt="flask logo" width="24">          |       Flask       |    Projeto 1                |
+|                <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/icons8-docker-50.png" width="24">                |       Docker      |    Projeto 1                |
+|        <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/Favorites/React-icon.png" width="24">                              | React, Typescript |    Projeto 2                |
 
   ##  Contact IDE's
  
@@ -60,57 +64,18 @@ height="180" width="180">  -->
 
 * Http://privacyandsecurityconference.pt/proceedings/2019/DPSC2019-paper14.pdf
 
--------------------------
+</details>
 
-## 👨‍💻 Technical Experience
+___
 
-Academic Project
-**eShelf**
-
-This project aims to develop a digital shelf that identifies products placed on the shelf, using NFC technology, and will present the information about the products on the display. this information is withdrawal from the database. This shelf aims to facilitate the price update and product labeling of a store as well as marketing to highlight the product in the store.
-
-**Tecnologys used**
-
-![API](https://img.shields.io/badge/flask-API_Restfull-green?logo=flask)
-![Arduino](https://img.shields.io/badge/Arduino-ESP8266-silver?logo=arduino)
-![Docker](https://img.shields.io/badge/Docker-Conteiners-blue?logo=docker)
-
- ![Language](https://img.shields.io/badge/-Python-gold?logo=python)
- ![Language](https://img.shields.io/badge/-mySQL-silver?logo=mysql)
- ![Language](https://img.shields.io/badge/NFC-blue?logo=NFC)
- ![Language](https://img.shields.io/badge/-GitHub-black?logo=github)
- 
  
 
+## 👨‍💻 Academic Projects
 
-> link project [eshelf](https://github.com/Pedroassuncao/eShelf).
+> [Eshelf](https://github.com/Pedroassuncao/eShelf) 
 
+> [Chargefy](https://github.com/Pedroassuncao/Chargefy)
 
-🚀 As a self-taught
---------------------
-
-Always like to explore
-* Linux distros
-* Linux server projects
-* Raspberry pi projects
-* terminal
-* Bash
-* Auditing tools (kali linux)
-
-
-
-On my spare time i like to explore the world of cybersecurity and  hacking. I already audited some networks in a controlled environment and got authorization for doing that.
-So, I am aware of some tools for information gathering, wireless attacks, forensic analysis etc.
-
-
-    Some tools:
-    * nmap
-    * aircrack-ng suite
-    * mdk3
-    * netdiscover
-    * metasploit
-    * reaver
-    and other opensource tools from github.
 
 🤝 Languages
 ----------------------------------------
@@ -121,30 +86,11 @@ So, I am aware of some tools for information gathering, wireless attacks, forens
      * 🇬🇧 English
      
 
-🕶 Philosophy
--------------------------------------
-* Meritocracy
-* Dedicated
-* Focus on result
-* Optimism
-* Cooperation
-
 <hr>
 <p align="center">
-  <i>The world is a dangerous place, Elliott, not because of those who do evil, but because of those who look on and do nothing.</i>
 
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pedroassuncao&show_icons=true&theme=vue-dark" alt="Pedro Assuncao stats" />
   
 
-
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/010-linkedin.svg" width="25"></a>  
-  <a href="https://www.instagram.com/pedro_assuncao/" width="120" alt="instagram"> <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/011-instagram.svg" width="25"> </a>
-  <a href="https://www.facebook.com/pedro21assuncao/" width="120" alt="facebook"> <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/008-facebook.svg" width="25"> </a>
-  <a href="mailto:pedroj_9@hotmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/enviar.png" width="25"></a>
-  </p>
-
-</p>
 
 
