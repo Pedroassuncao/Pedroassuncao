@@ -13,6 +13,8 @@ height="180" width="180">  -->
 - 👨‍💻 I’m looking to my first job on IT
 - ⚡ Fun fact: I love Sports and Hacking ( obviously a fan of <img src="https://www.pngkey.com/png/full/37-373340_pt-joedaddy-mr-robot-logo-png.png" width="60" alt="Robot Logo"> )
 
+## Spotify Playing 🎧
+
  [<img src="https://pedroassuncao.vercel.app/api/spotify" alt="Pedro Assuncao Spotify Playing" width="350" />](https://open.spotify.com/user/1166877153)
 
  
