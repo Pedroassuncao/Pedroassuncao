@@ -4,8 +4,11 @@
 height="180" width="180">  -->
 <h3 align="center">Computer Science and Engineering graduated looking for a job</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pedroassuncao-github-username&style=flat-square&label=Welcome&style=plastic&color=33FF99" alt="Pedroassuncao" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pedroassuncao-github-username&style=flat-square&label=Welcome_to_my_profile&style=plastic&color=33FF99" alt="Pedroassuncao" /> </p>
 
+
+ [Click here to count your visit](https://grabify.link/7PDB4U)
+ 
 
 -------------------     ----------------------------
 - 🏡 Living in Porto, Portugal 🇵🇹
@@ -74,9 +77,27 @@ ___
 
 ## 👨‍💻 Academic Projects
 
-> [Eshelf](https://github.com/Pedroassuncao/eShelf) 
+-  [Eshelf](https://github.com/Pedroassuncao/eShelf) 
 
-> [Chargefy](https://github.com/Pedroassuncao/Chargefy)
+ Used Tecnologies:
+
+![OS](https://img.shields.io/badge/-Pop_OS-darkorange?logo=Pop!_OS)
+![Language](https://img.shields.io/badge/-Docker-purple?logo=docker) 
+![Language](https://img.shields.io/badge/-Python-gold?logo=python)
+![Language](https://img.shields.io/badge/-Arduino-silver?logo=arduino)
+![VCS](https://img.shields.io/badge/-GitHub-black?logo=github)
+
+
+- [Chargefy](https://github.com/Pedroassuncao/Chargefy)
+
+Used Tecnologies:
+
+![OS](https://img.shields.io/badge/-Fedora_Linux-blue?logo=fedora) 
+![Framework](https://img.shields.io/badge/-Nodejs-black?logo=node.js) 
+![Framework](https://img.shields.io/badge/-React-blue?logo=react)
+![Language](https://img.shields.io/badge/-Express-yellow?logo=node.js)
+![Language](https://img.shields.io/badge/-TypeScript-silver?logo=ts-node)
+![VCS](https://img.shields.io/badge/-GitHub-black?logo=github)
 
 
 🤝 Languages
