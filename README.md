@@ -1,4 +1,4 @@
-<h1 align="center">Hello friend, I'm Pedro Assunção <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/wave.gif" alt=":wave:" width="10px"></h1>
+<h1 align="center">Hello friend, I'm Pedro Assunção <!-- <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/wave.gif" alt=":wave:" width="10px">--></h1>
 <!-- maybe dont need that image
  <img src="circle-cropped.png"
 height="180" width="180">  -->
