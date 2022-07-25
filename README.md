@@ -4,7 +4,7 @@
 height="180" width="180">  -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+friend!+👋;I+Am+Pedro Assunção....&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+friend!+👋;I+Am+Pedro Assuncao....&center=true&size=30">
   </a>
 </h1>
 <h3 align="center">DevOps Engineer with focus on Cybersecurity </h3>
