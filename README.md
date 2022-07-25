@@ -1,7 +1,12 @@
-<h1 align="center">Hello friend, I'm Pedro Assunção <!-- <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/wave.gif" alt=":wave:" width="10px">--></h1>
+<!-- <h1 align="center">Hello friend, I'm Pedro Assunção  <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/wave.gif" alt=":wave:" width="10px">--></h1>
 <!-- maybe dont need that image
  <img src="circle-cropped.png"
 height="180" width="180">  -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+friend!+👋;I+Am+Pedro....&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">DevOps Engineer with focus on Cybersecurity </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pedroassuncao-github-username&style=flat-square&label=Welcome_to_my_profile&style=plastic&color=33FF99" alt="Pedroassuncao" /> </p>
