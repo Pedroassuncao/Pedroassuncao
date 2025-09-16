@@ -18,8 +18,8 @@ height="180" width="180">  -->
 -------------------     ----------------------------
 - 🏡 Living in Porto, Portugal 🇵🇹
 - 🌱 Working from Home 
-- 👨‍💻 I’m SRE Engineer and Cybersecurity enthusiast at Celfocus
-- 🔰 Currently working on Ooredoo Qatar Project
+- 👨‍💻 I’m SRE Engineer and Cybersecurity enthusiast at Critical Techworks
+- 🔰 Currently working to BMW group
 - ⚡ Fun fact: I love Sports and Hacking ( obviously a fan of <img src="https://www.pngkey.com/png/full/37-373340_pt-joedaddy-mr-robot-logo-png.png" width="60" alt="Robot Logo"> )
 
 ## Spotify Playing 🎧
@@ -27,22 +27,27 @@ height="180" width="180">  -->
  [<img src="https://pedroassuncao.vercel.app/api/spotify" alt="Pedro Assuncao Spotify Playing" width="350" />](https://open.spotify.com/user/1166877153)
 
  
-Contact with me 👻
+<!-- Contact with me 👻 -->
   <!-- [![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=facebook&?link=https://www.facebook.com/pedro21assuncao/)](https://www.facebook.com/pedro21assuncao) <br>
  [![social](https://img.shields.io/badge/pedro__assuncao-social&?style=social&logo=instagram&link=https://www.instagram.com/pedro_assuncao//right)](https://www.instagram.com/pedro_assuncao)<br>
  ![social](https://img.shields.io/badge/pedro21assuncao-social&?style=social&logo=linkedin&link=https://www.linkedin.com/in/pedro21assuncao//right) -->
  
-  <p>
+  <!-- <p>
     <a href="https://www.linkedin.com/in/pedro21assuncao/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/010-linkedin.svg" width="25"></a>  
   <a href="https://www.instagram.com/pedro_assuncao/" width="120" alt="instagram"> <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/011-instagram.svg" width="25"> </a>
   <a href="https://www.facebook.com/pedro21assuncao/" width="120" alt="facebook"> <img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/008-facebook.svg" width="25"> </a>
   <a href="mailto:pedroj_9@hotmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Pedroassuncao/Pedroassuncao/master/resources/enviar.png" width="25"></a>
   </p>
 
-</p>
+</p> -->
 
 ## 🚀 **Working experience**
 
+**Project:** BMW | Connected Vehicle 🚗
+
+Aug 2025 - Present
+
+____
 **Project:** Ooredoo Qatar 🇶🇦 
 
 Nov 2023 - Present
